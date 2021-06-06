@@ -1,7 +1,7 @@
 #!/bin/bash
 # Lockphish
 # Coded by: @BlackMaster90
-# Telegram : T.ME/KILLGERHACK
+# Telegram : T.ME/Anonymoustm_org
 # Read the License before using any part from this code.
 
 trap 'printf "\n";stop' 2
@@ -16,7 +16,7 @@ printf "\e[1;33m / /__| (_) | (__|   <|\e[0m\e[1;77m |_) | | | | \__ \ | | | \e[
 printf "\e[1;33m \____/\___/ \___|_|\_\ \e[0m\e[1;77m.__/|_| |_|_|___/_| |_|\e[0m\n"
 printf "\e[1;77m                      |_|                  \e[0m\e[1;33mv1.1\e[0m\n"
 
-printf " \n\e[1;77m coded by: github.com/KillgerHack/lockphish\e[0m \n"
+printf " \n\e[1;77m coded by: github.com/Anonymousorg/lockphish\e[0m \n"
 printf " \e[1;77m Telegram: @BlackMaster90\e[1;77m\e[0m"
 printf "\n\n\n\e[1;91m Disclaimer: this tool is designed for security\n"
 printf " testing in an authorized simulated cyberattack\n"
