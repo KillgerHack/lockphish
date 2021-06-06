@@ -3,7 +3,7 @@
 Lockphish it's the first tool (05/13/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 
 ## Author: https://github.com/KillgerHack/lockphish
-## Telegram: T.ME/KILLGERHACK
+## Telegram: T.ME/Anonymoustm_org
 
 
 
@@ -20,7 +20,7 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 
 ### Usage:
 ```
-git clone https://github.com/KillgerHack/lockphish
+git clone https://github.com/Anonymousorg/lockphish
 cd lockphish
 bash lockphish.sh
 ```
